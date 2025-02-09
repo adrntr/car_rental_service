@@ -42,4 +42,3 @@ Once running, open **Swagger UI** at:
 http://127.0.0.1:8000/docs
 ```
 This allows easy interaction with the API endpoints.
----
